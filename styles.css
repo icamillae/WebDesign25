@@ -1,0 +1,12 @@
+body{
+    background-color: pink
+
+}
+h1 {color: yellowgreen}
+p{color: aqua}
+img {border-style: groove;
+border-width: 10px;
+border-color: coral;}
+a {color: blueviolet;
+font-size: larger;
+text-decoration: double;}
